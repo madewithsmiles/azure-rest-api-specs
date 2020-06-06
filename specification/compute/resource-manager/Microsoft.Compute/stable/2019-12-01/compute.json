@@ -88,7 +88,7 @@
             "schema": {
               "$ref": "#/definitions/AvailabilitySet"
             },
-            "description": "Parameters supplied to the Create Availability Set operation."
+            "description": "These are the parameters supplied to the Create Availability Set operation."
           },
           {
             "$ref": "#/parameters/ApiVersionParameter"
