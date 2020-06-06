@@ -2,7 +2,7 @@
 
 > see https://aka.ms/autorest
 
-This is the AutoRest configuration file for Batch.
+This is the AutoRest configuration file for Batch. @madewithsmilesTEST
 
 ---
 
