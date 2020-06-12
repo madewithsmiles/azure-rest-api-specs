@@ -28,6 +28,8 @@
       - ArcturusZhang
       - fengzhou-msft
       - yungezz
+     label:
+      - ComputeReview
 
 - rule:
     paths: "specification/resources/**"
